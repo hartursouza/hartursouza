@@ -1,6 +1,4 @@
 # Olá, me chamo Hartur Souza ! 
-<img src="https://github.com/user-attachments/assets/c9395393-4cac-4a99-9346-e6fe47ab5edd" alt="Descrição da imagem" width="150">
-
 <hr>
 
 ## Bem vindo ao meu perfil GitHub 👋

@@ -1,5 +1,4 @@
 # Olá, me chamo Hartur Souza ! 
-<hr>
 
 ## Bem vindo ao meu perfil GitHub 👋
 
